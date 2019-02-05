@@ -548,8 +548,8 @@ directory.addPair({
 });
 
 directory.addPair({
-    baseBuying: ['XLM', 'native'],
-    counterSelling: ['TON', 'TON.Money'],
+    baseBuying: ['TON', 'ton.money'],
+    counterSelling: ['XLM', 'native'],
 });
 
 directory.addPair({
