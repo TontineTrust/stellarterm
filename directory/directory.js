@@ -38,12 +38,12 @@ directory.addAsset('ternio.io', {
 directory.addAnchor({
 domain: 'ton.money',
 website: 'https://ton.money',
-logo: 'tontinetrust.com',
+logo: 'ton.money',
 color: '#2975bf',
 displayName: 'TON.Money',
 });
 
-directory.addAsset('TON.Money', {
+directory.addAsset('ton.money', {
 code: 'TON',
 issuer: 'GBFJGO46OV6E2QS2ZUMCF256ZL4BFOZWFHULRNLPSPW47HH5HFAKJTON',
 instructions: 'https://TON.Money',
