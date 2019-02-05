@@ -36,7 +36,7 @@ directory.addAsset('ternio.io', {
 });
 
 directory.addAnchor({
-domain: 'TON.Money',
+domain: 'ton.money',
 website: 'https://ton.money',
 logo: 'tontinetrust.com',
 color: '#2975bf',
